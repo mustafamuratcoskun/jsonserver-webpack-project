@@ -9,7 +9,7 @@ Create Webpack Bundle File and Bundles Folder
 npm run build
 
 ```
-Run Json Server (To See More Info About Json Server, [Here ](https://github.com/typicode/json-server) is the git repo of this packed)
+Run Json Server (To See More Info About Json Server, [Here ](https://github.com/typicode/json-server) is the git repo of this package)
 ```
 json-server --watch fake-api/employee.json
 ```
